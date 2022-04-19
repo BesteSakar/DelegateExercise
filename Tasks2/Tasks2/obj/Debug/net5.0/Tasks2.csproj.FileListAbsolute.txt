@@ -1,0 +1,16 @@
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.exe
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.deps.json
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.runtimeconfig.json
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.runtimeconfig.dev.json
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.dll
+C:\Users\beste\source\repos\Tasks2\Tasks2\bin\Debug\net5.0\Tasks2.pdb
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.AssemblyInfoInputs.cache
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.AssemblyInfo.cs
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.dll
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\refint\Tasks2.dll
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.pdb
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\Tasks2.genruntimeconfig.cache
+C:\Users\beste\source\repos\Tasks2\Tasks2\obj\Debug\net5.0\ref\Tasks2.dll

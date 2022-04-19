@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a3iQcoqO4W5Qf+tOH87sAc1M+GCqd9oeMYn+YXm57qA9G22FTKxdZ/rvHupdZOyHotARI4Ooif1K5OLEz9MWbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beste\\source\\repos\\Tasks2\\Tasks2\\Tasks2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beste\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
